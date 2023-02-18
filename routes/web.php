@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\admin;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,4 +15,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('home');
+});
+
+Route::get('/produk', function () {
+    return view('produk');
+});
+
+Route::get('/admin', [admin::class, 'index']);
+
+Route::controller(admin::class)->group(function(){
+    Route::get('admin/home', 'home');
+    Route::get('admin/index', 'index');
 });

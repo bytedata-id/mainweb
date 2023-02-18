@@ -10,7 +10,7 @@
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae,
               error.
             </p>
-            <a href="/" class="cta">Coba Layanan</a>
+            <a href="/#menu" class="cta">Coba Layanan</a>
         </div>
         <div class="logo col-7">
           <img src="../img/nobg.png" width="150%">
@@ -50,50 +50,50 @@
         <p>Kami memberikan Solusi untuk memenuhi kebutuhan anda di bidang IT.</p>
   <div class="container text-center">
         <div class="row justify-content-center">
-          <div class="col-4 menu-card">
+          <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/cloudee.png"
               alt="Web Developer"
               class="menu-card-img"
             />
             <h3 class="menu-card-title">- Web Developer -</h3>
-          </div>
-          <div class="col-4 menu-card">
+          </div></a>
+          <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/vps.png"
               alt="Virtual Private Server(VPS)"
               class="menu-card-img"
             />
             <h3 class="menu-card-title">- Virtual Private Server(VPS) -</h3>
-          </div>
-          <div class="col-4 menu-card">
+          </div></a>
+          <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/vpn.jpg"
               alt="Virtual Private Network"
               class="menu-card-img"
             />
             <h3 class="menu-card-title">- Virtual Private Network -</h3>
-          </div>
+          </div></a>
         </div>
   </div>
       <div class="container text-center">
         <div class="row justify-content-center">
-          <div class="col-4 menu-card">
+          <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/Cloude.png"
               alt="Cloud Storage"
               class="menu-card-img"
             />
             <h3 class="menu-card-title">- Cloud Storage -</h3>
-          </div>
-          <div class="col-4 menu-card">
+          </div></a>
+          <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/mikrotik.jpg"
               alt="Mikrotik"
               class="menu-card-img"
             />
             <h3 class="menu-card-title">- Setting Mikrotik -</h3>
-          </div>
+          </div></a>
         </div>
       </div>
       </div>

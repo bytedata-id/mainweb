@@ -2,10 +2,10 @@
   <a href="/" class="navbarlogo">BYTE<span>DATA</span>.ID</a>
 
   <div class="navbarn ">
-    <a href="#home">Home</a>
-    <a href="#about">About</a>
-    <a href="#menu">Layanan Kami</a>
-    <a href="#contact">Kontak</a>
+    <a href="/#home">Home</a>
+    <a href="/#about">About</a>
+    <a href="/#menu">Layanan Kami</a>
+    <a href="/#contact">Kontak</a>
   </div>
 
   <div class="navbarx">
