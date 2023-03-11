@@ -12,7 +12,7 @@
             </p>
             <a href="/#menu" class="cta">Coba Layanan</a>
         </div>
-        <div class="logo col-7">
+        <div class="logo col-6">
           <img src="../img/nobg.png" width="150%">
         </div>
       </div>
@@ -21,7 +21,7 @@
 
      <!-- About Section start -->
      <section id="about" class="about">
-        <h2><span>About</span> Us</h2>
+        <h2><span>Tentang</span> Kami</h2>
   
         <div class="row">
           <div class="about-img">
