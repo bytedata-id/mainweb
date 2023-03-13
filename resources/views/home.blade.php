@@ -13,7 +13,7 @@
             <a href="/#menu" class="cta">Coba Layanan</a>
         </div>
         <div class="logo col-6">
-          <img src="../img/nobg.png" width="150%">
+          <img src="../img/nobg.png" width="125%">
         </div>
       </div>
     </div>
@@ -22,8 +22,8 @@
      <!-- About Section start -->
      <section id="about" class="about">
         <h2><span>Tentang</span> Kami</h2>
-  
-        <div class="row">
+
+        <div class="row justify-content-between">
           <div class="about-img">
             <img src="img/tentang-kmi.png" alt="Tentang Kami" />
           </div>
@@ -38,18 +38,17 @@
               , dan Kepuasan Customer. Kami selalu berusaha untuk mengembangkan
               layanan yang diberikan.
             </p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat expedita veritatis ratione dolor consequuntur aliquam quia, impedit corporis ipsam aperiam unde similique necessitatibus sed iusto. Illo enim repellendus voluptas temporibus. Aut, nulla quam non delectus natus nihil modi unde nam illo numquam dolores voluptatibus doloremque, in veniam aliquid. Enim, iusto.</p>
           </div>
         </div>
       </section>
       <!-- About Section end -->
-  
+
        <!-- Menu Section start -->
     <section id="menu" class="menu">
         <h2><span>Layanan</span> Kami</h2>
         <p>Kami memberikan Solusi untuk memenuhi kebutuhan anda di bidang IT.</p>
   <div class="container text-center">
-        <div class="row justify-content-center">
+        <div class="row ">
           <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/cloudee.png"
@@ -77,7 +76,7 @@
         </div>
   </div>
       <div class="container text-center">
-        <div class="row justify-content-center">
+        <div class="row ">
           <div class="col-4 menu-card"><a href="#">
             <img
               src="img/menu/Cloude.png"
@@ -157,7 +156,6 @@
       </div>
     </footer>
     <!-- Footer end -->
-    
-    @endsection  
 
-  
+    @endsection
+
