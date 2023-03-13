@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/produk', function () {
-    return view('produk');
+    return view('produk.webdev');
 });
 
 Route::get('/admin', [admin::class, 'index']);
